@@ -300,6 +300,7 @@ html{
 
     display: flex;
     justify-content: space-between; 
+    align-items: center;
      
     
   }
@@ -312,10 +313,7 @@ html{
     
   }
 
-  nav{
-    background-color: #FFE4E1;
 
-  }
   
   /* Footer
       ============================= */

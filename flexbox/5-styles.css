@@ -296,22 +296,22 @@ html{
      background: transparent;
         
   }
-  /* .header .container{
+
+  header .container{
 
     display: flex;
     justify-content: space-between; 
-    align-items: center;
-     
-    
-  } */
-
- .header .header-container{
-
-    display: flex;
-    justify-content: space-between; 
-     
+     align-items: center;
     
   }
+  
+ header .header-container{
+  display: flex;
+    justify-content: space-between; 
+     align-items: center;
+  }
+
+
 
 
   

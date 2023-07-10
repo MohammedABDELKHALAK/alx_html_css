@@ -213,7 +213,7 @@ html{
   
   .section-services ul.row {
     margin: -1rem;
-    /* padding: 0; */
+    padding: 0;
     list-style: none;
     display: flex;
     

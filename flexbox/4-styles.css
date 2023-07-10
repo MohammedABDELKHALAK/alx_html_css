@@ -296,12 +296,12 @@ html{
   
   .header {
     
-    display: flex;
+    /* display: flex; */
     /*  z-index: 3; */
      background: transparent;
         
   }
-  header .container{
+  .header-container{
 
     display: flex;
     justify-content: space-between; 
@@ -309,10 +309,7 @@ html{
     
   }
   
-  .header-logo {
-    background-color: #F5F5F5;
-  
-  }
+
   
   .header-logo a {
     /* display: var(--header-logo-link-display);

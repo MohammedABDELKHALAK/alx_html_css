@@ -311,9 +311,8 @@ html{
     
   }
   
- header.header-container{
-  display: flex;
-    justify-content: space-between; 
+ header .header-container{
+  
      align-items: center;
   }
 
